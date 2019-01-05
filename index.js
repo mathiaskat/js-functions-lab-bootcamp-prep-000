@@ -32,9 +32,8 @@ function sayHiToGrandma(string){
       return 'I love you, too.';
     }
 }
-Functions Lab
 
-Task: Create four functions – one each showing a slightly different way to pass arguments and return them/strings.
+
 
 
 //1. Write a function that returns a value
